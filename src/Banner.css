@@ -1,0 +1,10 @@
+.Mainbanner{
+    background-image: url("../public/images/banner.jpg");
+    background-size: cover;
+    height: 50rem;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-banner{
+    margin: auto;
+    width: 615px;
+}
